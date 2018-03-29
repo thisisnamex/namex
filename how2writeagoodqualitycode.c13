@@ -1,5 +1,7 @@
 Motto：关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。
 
+--------------------------------------------------------
+
 1.select an appropriate data structure.then there is a question, how to choose.why this data structure is the best match,what is the reason.
 
 links:
@@ -11,3 +13,14 @@ https://www.quora.com/How-do-you-decide-which-data-structure-you-need-to-use-for
 https://stackoverflow.com/questions/6653258/selecting-appropriate-data-structure
 
 2.
+
+-------------------------------------------------------------
+
+------------------- 20180329 --------------------------
+
+application level three aspect is important, below:
+1) Event mechanism, communication between components.
+2) Error handling mechainsm, how to handle when an error occurs.
+3) Resource mechainsm, how to manage resources during application life cycle.
+
+-----------------20180329 end --------------------------------
